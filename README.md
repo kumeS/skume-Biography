@@ -27,9 +27,10 @@ Satoshi Kume, Ph.D
 
 ## Honors
 
-- The 8th RIKEN Research Incentive Award (23th Mar 2017)
-- The 2nd RIKEN Industry Partnerships Incentive Award (23th Mar 2017)
-- RIKEN CLST Research Incentive Award 2016 (4th Apr 2017)
+- The 8th RIKEN Research Incentive Award (23th Mar 2017, RIKEN)
+- The 2nd RIKEN Industry Partnerships Incentive Award (23th Mar 2017, RIKEN)
+- RIKEN CLST Research Incentive Award 2016 (4th Apr 2017, RIKEN CLST)
+- 短期派遣留学奨学助成 奨学生  (2006年10月, 日本学生支援機構)
 
 ## Presentations
 
