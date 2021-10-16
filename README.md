@@ -29,13 +29,6 @@ Satoshi Kume, Ph.D
 
 - Kume, et al: Systematic interaction analysis of human lipocalin-type prostaglandin D synthase with small lipophilic ligands, Biochemical Journal 446(2):279-289.
 
-## Honors
-
-- The 8th RIKEN Research Incentive Award (23th Mar 2017, RIKEN)
-- The 2nd RIKEN Industry Partnerships Incentive Award (23th Mar 2017, RIKEN)
-- RIKEN CLST Research Incentive Award 2016 (4th Apr 2017, RIKEN CLST)
-- 短期派遣留学奨学助成 奨学生  (2006年10月, 日本学生支援機構)
-
 ## [Presentations](https://researchmap.jp/skume/)
 
 - Satoshi Kume: Introduction to Bioimaging Analysis in R, [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), 4th Nov 2021.
@@ -43,9 +36,7 @@ Satoshi Kume, Ph.D
 ## Softwares
 
 - [BioImageDbs (Bioconductor Experiment Package)](https://bioconductor.org/packages/release/data/experiment/html/BioImageDbs.html)
-
 - [CRAN/GoogleImage2Array](https://cran.r-project.org/web/packages/GoogleImage2Array/index.html)
-
 
 ## Scientific community
 
@@ -53,6 +44,13 @@ Satoshi Kume, Ph.D
 - The Japanese Society for Artificial Intelligence /  日本人工知能学会
 - BioPackathon
 - 文部科学省 科学技術・学術政策研究所 科学技術予測センター 専門調査員
+
+## Honors
+
+- The 8th RIKEN Research Incentive Award (23th Mar 2017, RIKEN)
+- The 2nd RIKEN Industry Partnerships Incentive Award (23th Mar 2017, RIKEN)
+- RIKEN CLST Research Incentive Award 2016 (4th Apr 2017, RIKEN CLST)
+- 短期派遣留学奨学助成 奨学生  (2006年10月, 日本学生支援機構)
 
 ## Others
 
