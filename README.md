@@ -27,6 +27,10 @@ Satoshi Kume, Ph.D
 
 ## Honors
 
+- The 8th RIKEN Research Incentive Award (23th Mar 2017)
+- The 2nd RIKEN Industry Partnerships Incentive Award (23th Mar 2017)
+- RIKEN CLST Research Incentive Award 2016 (4th Apr 2017)
+
 ## Presentations
 
 - Satoshi Kume: Introduction to Bioimaging Analysis in R, [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), 4th Nov 2021.
@@ -40,9 +44,18 @@ Satoshi Kume, Ph.D
 
 ## Scientific community
 
-- The Japanese Society of Microscopy
-- The Japanese Society for Artificial Intelligence
+- The Japanese Society of Microscopy / 日本顕微鏡学会
+- The Japanese Society for Artificial Intelligence /  日本人工知能学会
 - BioPackathon
+- 文部科学省 科学技術・学術政策研究所 科学技術予測センター 専門調査員
+
+## Others
+
+- Kakenhi / 科研費情報: https://nrid.nii.ac.jp/ja/nrid/1000030708441/
+- Researchmap / リサーチマップ: https://researchmap.jp/skume/
+- ResearchGate: https://www.researchgate.net/profile/Satoshi_Kume
+
+
 
 
 
