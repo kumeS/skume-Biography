@@ -25,7 +25,9 @@ Satoshi Kume, Ph.D
 
 ## [Publications/Patents](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAAJ)
 
-- Kume et al: Systematic interaction analysis of human lipocalin-type prostaglandin D synthase with small lipophilic ligands, Biochemical Journal 446(2):279-289.
+- Kume, et al: Potential biomarkers of fatigue identified by plasma metabolome analysis in rats, PloS one 10(3):e0120106.
+
+- Kume, et al: Systematic interaction analysis of human lipocalin-type prostaglandin D synthase with small lipophilic ligands, Biochemical Journal 446(2):279-289.
 
 ## Honors
 
