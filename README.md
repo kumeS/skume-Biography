@@ -20,13 +20,11 @@ Satoshi Kume, Ph.D
 ## Education
 
 - PhD in Applied Life Science, 2013 (Osaka Prefecture University)
-
 - BS in Course of Agriculture (Molecular life science), 2008 (Obihiro University of Agriculture and Veterinary Medicine)
 
 ## [Publications/Patents](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAAJ)
 
 - Kume, et al: Potential biomarkers of fatigue identified by plasma metabolome analysis in rats, PloS one 10(3):e0120106.
-
 - Kume, et al: Systematic interaction analysis of human lipocalin-type prostaglandin D synthase with small lipophilic ligands, Biochemical Journal 446(2):279-289.
 
 ## [Presentations](https://researchmap.jp/skume/)
