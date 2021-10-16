@@ -25,6 +25,8 @@ Satoshi Kume, Ph.D
 
 ## [Publications/Patents](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAAJ)
 
+- Kume et al: Systematic interaction analysis of human lipocalin-type prostaglandin D synthase with small lipophilic ligands, Biochemical Journal 446(2):279-289.
+
 ## Honors
 
 - The 8th RIKEN Research Incentive Award (23th Mar 2017, RIKEN)
