@@ -20,8 +20,10 @@ editor_options:
 
 - PhD in Applied Life Science, Osaka Prefecture University (2013) 
   - Division of Biological Information Science, Department of Applied Life Sciences, Osaka Prefecture University, Japan.
+
 - MS in Applied Life Science, Osaka Prefecture University (2010)
   - Division of Biological Information Science, Department of Applied Life Sciences, Graduate school of Life and Environmental Sciences, Osaka Prefecture University, Japan.
+
 - BS in Agriculture, Obihiro University of Agriculture and Veterinary Medicine (2008) 
   - Course of Agriculture (Division of Molecular Life Science), Faculty of Animal Husbandry, Obihiro University of Agriculture and Veterinary Medicine, Japan.
 
@@ -35,6 +37,7 @@ editor_options:
 # Softwares
 
 - [BioImageDbs (Bioconductor Experiment Package)](https://bioconductor.org/packages/release/data/experiment/html/BioImageDbs.html)
+
 - [CRAN/GoogleImage2Array](https://cran.r-project.org/web/packages/GoogleImage2Array/index.html)
 
 
@@ -66,7 +69,9 @@ See [past presentations](https://kumes.github.io/skume-Biography/Presentations.h
 # Teaching Experience
 
 - Teaching lecturer, Department of Life and Environmental Sciences, Osaka Prefecture University, Sakai, Osaka, Japan. (Jan 2019)
+
 - Part-time lecturer for science foundation of life, a class of first-degree, Kobe Shoin Women's University. (Apr 2013 - Jul 2013)
+
 - Teaching assistant, Department of Life and Environmental Sciences, Osaka Prefecture University, Sakai, Osaka, Japan. (Jul 2011 - Mar 2013)
 
 
@@ -98,15 +103,20 @@ See [past presentations](https://kumes.github.io/skume-Biography/Presentations.h
 # Competitive research funding
 
 1.	Prof. Osafune memorial scholarship by the Japanese Society of Microscopy (Principal investigator): Comprehensive Morphological Analysis of Three-Dimensional Cell Images Using Sequential Semantic Segmentation Method of Deep Learning, 2020.
+
 2.	JSPS KAKENHI Challenging Research (Exploratory) (Principal investigator): Construction of next-generation health diagnosis by the health informatics of bioimage information, 2018–2021.
+
 3.	JSPS KAKENHI Grant-in-Aid for Young Scientists (B) (Principal investigator): The Clarification of Molecular Mechanisms of Fatigue Underlying Fatigue Regulation Factors Using Adeno-associated Virus, 2015–2017.
+
 4.	JSPS KAKENHI Grant-in-Aid for Research Activity Start-up (Principal investigator): Metabolic alterations of urea cycle and anti-fatigue effect of ornithine administration in fatigued animals, 2013–2015.
 
 
 # Press release / Media
 
 1.	[”Research x Something”, GENSYU, RIKEN News, November 2019. (Japanese)](https://www.riken.jp/medialibrary/riken/pr/publications/news/2019/rn201911.pdf)
+
 2.	[BDR Times | Ikimono Times, BDR Research: Nehori Hahori, “Connecting Micro and Macro for a New Biology (Japanese)](https://bdrtimes.riken.jp/2019/06/30/questionnaire/)
+
 3.	[Prediction of Autonomic Nervous System Function from Mood Change during Listening to Environmental Music - Expectations for Improvement of Autonomic Nervous System Balance by Music (Japanese)](https://www.riken.jp/press/2017/20170427_1/)
 
 
