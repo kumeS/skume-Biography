@@ -100,7 +100,7 @@ See [past presentations](https://kumes.github.io/skume-Biography/Presentations.h
 - JASSP Short-term Student Exchange Promotion Program (Outbound) Scholarship  (Oct 2006, JASSP)
 
 
-# Competitive research funding
+# Research funding
 
 1.	Prof. Osafune memorial scholarship by the Japanese Society of Microscopy (Principal investigator): Comprehensive Morphological Analysis of Three-Dimensional Cell Images Using Sequential Semantic Segmentation Method of Deep Learning, 2020.
 
