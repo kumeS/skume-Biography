@@ -8,7 +8,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Interests
+# Research interests
 
 - Bioinformatics / informatics / AI / Deep learning
 - R/Bioconductor
@@ -32,7 +32,10 @@ editor_options:
 - Apr 2020 - present : Osaka Electro-Communication University (OECU)
 - Apr 2013 - Mar 2020 : RIKEN
   - 2013-2018 RIKEN Center for Life Science Technologies (CLST)
+  - 2014-2020 RIKEN-JEOL Collaboration Center
+  - 2016-2020 RIKEN Compass to Healthy Life Research Complex Program (RCH)
   - 2019-2020 RIKEN Center for Biosystems Dynamics Research (BDR)
+
 
 # Softwares
 
@@ -44,52 +47,52 @@ editor_options:
 # Publications/Patents
 See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAAJ) in detailed.
 
-1. Kume, *et al*: [Systematic interaction analysis of human lipocalin-type prostaglandin D synthase with small lipophilic ligands](https://portlandpress.com/biochemj/article-abstract/446/2/279/46032/Systematic-interaction-analysis-of-human-lipocalin?redirectedFrom=fulltext), Biochemical Journal 446(2):279-289, 2012.
+1. **Satoshi Kume**, *et al*: [Systematic interaction analysis of human lipocalin-type prostaglandin D synthase with small lipophilic ligands](https://portlandpress.com/biochemj/article-abstract/446/2/279/46032/Systematic-interaction-analysis-of-human-lipocalin?redirectedFrom=fulltext), Biochemical Journal 446(2):279-289, 2012.
 
-2. Satoshi Kume, *et al*: [Fine-tuned broad binding capability of human lipocalin-type prostaglandin D synthase for various small lipophilic ligands](https://febs.onlinelibrary.wiley.com/doi/full/10.1016/j.febslet.2014.02.001). FEBS Letters. 588, 962–969, 2014.
+2. **Satoshi Kume**, *et al*: [Fine-tuned broad binding capability of human lipocalin-type prostaglandin D synthase for various small lipophilic ligands](https://febs.onlinelibrary.wiley.com/doi/full/10.1016/j.febslet.2014.02.001). FEBS Letters. 588, 962–969, 2014.
 
-3. Satoshi Kume, *et al*: [Potential biomarkers of fatigue identified by plasma metabolome analysis in rats](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120106), PloS one 10(3):e0120106, 2015.
+3. **Satoshi Kume**, *et al*: [Potential biomarkers of fatigue identified by plasma metabolome analysis in rats](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120106), PloS One 10(3):e0120106, 2015.
 
-4. Satoshi Kume, *et al*: [Music Improves Subjective Feelings Leading to Cardiac Autonomic Nervous Modulation: A Pilot Study](https://www.frontiersin.org/articles/10.3389/fnins.2017.00108/full), Frontiers in Neuroscience. 11:108, 2017.
+4. **Satoshi Kume**, *et al*: [Music Improves Subjective Feelings Leading to Cardiac Autonomic Nervous Modulation: A Pilot Study](https://www.frontiersin.org/articles/10.3389/fnins.2017.00108/full), Frontiers in Neuroscience. 11:108, 2017.
 
-5. Yoshiaki Teraoka, Satoshi Kume, *et al*: [Comprehensive Evaluation of the Binding of Lipocalin-Type Prostaglandin D Synthase to Poorly Water-Soluble Drugs](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00590), Molecular Pharmaceutics, 14 (10): 3558–3567, 2017.
+5. Yoshiaki Teraoka, **Satoshi Kume**, *et al*: [Comprehensive Evaluation of the Binding of Lipocalin-Type Prostaglandin D Synthase to Poorly Water-Soluble Drugs](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00590), Molecular Pharmaceutics, 14 (10): 3558–3567, 2017.
 
-6. Satoshi Kume, *et al*: [Development of Semantic Web-Based Imaging Database for Biological Morphome](https://link.springer.com/chapter/10.1007/978-3-319-70682-5_19). In: Wang Z., Turhan AY., Wang K., Zhang X. (eds) Semantic Technology. JIST 2017. Lecture Notes in Computer Science, vol 10675. Springer, Cham, 2017.
+6. **Satoshi Kume**, *et al*: [Development of Semantic Web-Based Imaging Database for Biological Morphome](https://link.springer.com/chapter/10.1007/978-3-319-70682-5_19). In: Wang Z., Turhan AY., Wang K., Zhang X. (eds) Semantic Technology. JIST 2017. Lecture Notes in Computer Science, vol 10675. Springer, Cham, 2017.
 
-7. Norio Kobayashi, Satoshi Kume, *et al*: [RIKEN MetaDatabase: A Database Platform as a Microcosm of Linked Open Data Cloud for Life Sciences](https://www.igi-global.com/article/riken-metadatabase/193932), The International Journal on Semantic Web and Information Systems, 14(1) 140-164, 2018.
+7. Norio Kobayashi, **Satoshi Kume**, *et al*: [RIKEN MetaDatabase: A Database Platform as a Microcosm of Linked Open Data Cloud for Life Sciences](https://www.igi-global.com/article/riken-metadatabase/193932), The International Journal on Semantic Web and Information Systems, 14(1) 140-164, 2018.
 
 
-# Talks/Workshop
+# Presentations
 
 See [past presentations](https://kumes.github.io/skume-Biography/Presentations.html) in detailed.
 
-- Satoshi Kume: Introduction to Bioimaging Analysis in R, [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), 4th Nov 2021.
+- Satoshi Kume: [Introduction to Bioimaging Analysis in R](https://github.com/kumeS/biocasia2021-workshop-ja-image), [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), 4th Nov 2021.
 
 
 # Teaching Experience
 
-- Teaching lecturer, Department of Life and Environmental Sciences, Osaka Prefecture University, Sakai, Osaka, Japan. (Jan 2019)
+- **Teaching lecturer**, Department of Life and Environmental Sciences, Osaka Prefecture University, Sakai, Osaka, Japan. (Jan 2019)
 
-- Part-time lecturer for science foundation of life, a class of first-degree, Kobe Shoin Women's University. (Apr 2013 - Jul 2013)
+- **Part-time lecturer** for science foundation of life, a class of first-degree, Kobe Shoin Women's University. (Apr 2013 - Jul 2013)
 
-- Teaching assistant, Department of Life and Environmental Sciences, Osaka Prefecture University, Sakai, Osaka, Japan. (Jul 2011 - Mar 2013)
+- **Teaching assistant**, Department of Life and Environmental Sciences, Osaka Prefecture University, Sakai, Osaka, Japan. (Jul 2011 - Mar 2013)
 
 
 # Committee activity
 
-- Organizer, BioPackathon (2020 - present)
-- Expert investigator, National Institute of Science and Technology Policy  (2019 - present)
-- BiocAsia2021 Organizing Committee Member (2021)
-- Program Committee Member, 16th Annual Meeting of the Fatigue Society of Japan (2019 - 2020)
--	Ethics Committee Member (Life Science), Kokorotics Research Ethics Committee (2017 - 2020)
-- Member (Data Science), Insurance Innovation Creation Research Group (2018 - 2020)
-- Member (Life Science), the Evaluation Committee for the Database Services of RIKEN Information Technology Center (2016)
+- **Organizer**, BioPackathon (2020 - present)
+- **Expert investigator**, National Institute of Science and Technology Policy  (2019 - present)
+- BiocAsia2021 Organizing **Committee Member** (2021)
+- **Program Committee Member**, 16th Annual Meeting of the Fatigue Society of Japan (2019 - 2020)
+-	**Ethics Committee Member (Life Science)**, Kokorotics Research Ethics Committee (2017 - 2020)
+- **Member (Data Science)**, Insurance Innovation Creation Research Group (2018 - 2020)
+- **Member (Life Science)**, the Evaluation Committee for the Database Services of RIKEN Information Technology Center (2016)
 
 
 # Scientific community
 
-- Regular member, The Japanese Society of Microscopy / 日本顕微鏡学会 正会員
-- Regular member, The Japanese Society for Artificial Intelligence /  日本人工知能学会 正会員
+- **Regular member**, The Japanese Society of Microscopy / 日本顕微鏡学会 正会員
+- **Regular member**, The Japanese Society for Artificial Intelligence /  日本人工知能学会 正会員
 
 
 # Honors
