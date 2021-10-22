@@ -1,0 +1,114 @@
+---
+title: "Biography - Satoshi Kume, Ph.D"
+date: "`r Sys.Date()`"
+output:
+  BiocStyle::html_document:
+      toc_float: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Interests
+
+- Bioinformatics / informatics / AI / Deep learning
+- R/Bioconductor
+- Medical science / healthcare
+- Comprehensive image analysis / Electron microscopy
+-	Fusion research of life science with AI and computational science
+
+# Education
+
+- PhD in Applied Life Science, Osaka Prefecture University (2013) 
+  - Division of Biological Information Science, Department of Applied Life Sciences, Osaka Prefecture University, Japan.
+- MS in Applied Life Science, Osaka Prefecture University (2010)
+  - Division of Biological Information Science, Department of Applied Life Sciences, Graduate school of Life and Environmental Sciences, Osaka Prefecture University, Japan.
+- BS in Agriculture, Obihiro University of Agriculture and Veterinary Medicine (2008) 
+  - Course of Agriculture (Division of Molecular Life Science), Faculty of Animal Husbandry, Obihiro University of Agriculture and Veterinary Medicine, Japan.
+
+# Work history
+
+- Apr 2020 - present : Osaka Electro-Communication University (OECU)
+- Apr 2013 - Mar 2020 : RIKEN
+  - 2013-2018 RIKEN Center for Life Science Technologies (CLST)
+  - 2019-2020 RIKEN Center for Biosystems Dynamics Research (BDR)
+
+# Publications/Patents
+See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAAJ) in detailed.
+
+1. Kume, et al: [Systematic interaction analysis of human lipocalin-type prostaglandin D synthase with small lipophilic ligands](https://portlandpress.com/biochemj/article-abstract/446/2/279/46032/Systematic-interaction-analysis-of-human-lipocalin?redirectedFrom=fulltext), Biochemical Journal 446(2):279-289, 2012.
+
+
+- Kume, et al: [Potential biomarkers of fatigue identified by plasma metabolome analysis in rats](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120106), PloS one 10(3):e0120106, 2015.
+
+
+# Softwares
+
+- [BioImageDbs (Bioconductor Experiment Package)](https://bioconductor.org/packages/release/data/experiment/html/BioImageDbs.html)
+- [CRAN/GoogleImage2Array](https://cran.r-project.org/web/packages/GoogleImage2Array/index.html)
+
+# Invited talks/Presentations/Workshop
+
+See [past presentations](https://researchmap.jp/skume/) in detailed.
+
+- Satoshi Kume: Introduction to Bioimaging Analysis in R, [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), 4th Nov 2021.
+
+
+# Teaching Experience
+
+- Jan 2019:	Teaching lecturer, Department of Life and Environmental Sciences, Osaka Prefecture University, Sakai, Osaka, Japan.
+- Apr 2013 - Jul 2013:	Part-time lecturer for science foundation of life, a class of first-degree, Kobe Shoin Women's University.
+- Jul 2011 - Mar 2013:	Teaching assistant, Department of Life and Environmental Sciences, Osaka Prefecture University, Sakai, Osaka, Japan.
+
+# Committee activity
+
+- Organizer, BioPackathon (2020-present)
+- Expert investigator, National Institute of Science and Technology Policy  (2019 - present)
+- BiocAsia2021 Organizing Committee Member (2021)
+- Program Committee Member, 16th Annual Meeting of the Fatigue Society of Japan (2019-2020)
+-	Ethics Committee Member (Life Science), Kokorotics Research Ethics Committee (2017 – 2020)
+- Member (Data Science), Insurance Innovation Creation Research Group (2018 – 2020)
+- Member (Life Science), the Evaluation Committee for the Database Services of RIKEN Information Technology Center (2016)
+
+# Scientific community
+
+- Regular member, The Japanese Society of Microscopy / 日本顕微鏡学会 正会員
+- Regular member, The Japanese Society for Artificial Intelligence /  日本人工知能学会 正会員
+
+
+# Honors
+
+- The 8th RIKEN Research Incentive Award (23th Mar 2017, RIKEN)
+- The 2nd RIKEN Industry Partnerships Incentive Award (23th Mar 2017, RIKEN)
+- RIKEN CLST Research Incentive Award 2016 (4th Apr 2017, RIKEN CLST)
+- JASSP Short-term Student Exchange Promotion Program (Outbound) Scholarship  (Oct 2006, JASSP)
+
+
+# Competitive research funding
+
+1.	Prof. Osafune memorial scholarship by the Japanese Society of Microscopy (Principal investigator): Comprehensive Morphological Analysis of Three-Dimensional Cell Images Using Sequential Semantic Segmentation Method of Deep Learning, 2020.
+2.	JSPS KAKENHI Challenging Research (Exploratory) (Principal investigator): Construction of next-generation health diagnosis by the health informatics of bioimage information, 2018–2021.
+3.	JSPS KAKENHI Grant-in-Aid for Young Scientists (B) (Principal investigator): The Clarification of Molecular Mechanisms of Fatigue Underlying Fatigue Regulation Factors Using Adeno-associated Virus, 2015–2017.
+4.	JSPS KAKENHI Grant-in-Aid for Research Activity Start-up (Principal investigator): Metabolic alterations of urea cycle and anti-fatigue effect of ornithine administration in fatigued animals, 2013–2015.
+
+
+# Press release / Media
+
+1.	[”Research x Something”, GENSYU, RIKEN News, November 2019. (Japanese)](https://www.riken.jp/medialibrary/riken/pr/publications/news/2019/rn201911.pdf)
+2.	[BDR Times | Ikimono Times, BDR Research: Nehori Hahori, “Connecting Micro and Macro for a New Biology (Japanese)](https://bdrtimes.riken.jp/2019/06/30/questionnaire/)
+3.	[Prediction of Autonomic Nervous System Function from Mood Change during Listening to Environmental Music - Expectations for Improvement of Autonomic Nervous System Balance by Music (Japanese)](https://www.riken.jp/press/2017/20170427_1/)
+
+
+# Others
+
+- [Blog](https://skume.net/)
+- [slideshare.net](https://www.slideshare.net/BiophysicsOsaka)
+
+- [Kakenhi / 科研費情報](https://nrid.nii.ac.jp/ja/nrid/1000030708441/)
+- [Researchmap / リサーチマップ](https://researchmap.jp/skume/)
+- [ResearchGate](https://www.researchgate.net/profile/Satoshi_Kume)
+- [Loop Frontiers](https://loop.frontiersin.org/people/368373/overview)
+- [Linkedin](https://www.linkedin.com/in/satoshi-kume-25175b129/?locale=en_US)
+- [Google scholar](https://scholar.google.com/citations?user=pV7OzeAAAAAJ&hl=en)
+
+
+
