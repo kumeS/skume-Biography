@@ -11,7 +11,7 @@ editor_options:
 # Research interests
 
 - Bioinformatics / informatics / AI / Deep learning
-- R/Bioconductor
+- R / Bioconductor
 - Medical science / healthcare
 - Comprehensive image analysis / Electron microscopy
 -	Fusion research of life science with AI and computational science
@@ -30,6 +30,7 @@ editor_options:
 # Work history
 
 - Apr 2020 - present : Osaka Electro-Communication University (OECU)
+- Jan 2016 - Jun 2021 : Kokorotics Inc.
 - Apr 2013 - Mar 2020 : RIKEN
   - 2013-2018 RIKEN Center for Life Science Technologies (CLST)
   - 2014-2020 RIKEN-JEOL Collaboration Center
@@ -37,12 +38,13 @@ editor_options:
   - 2019-2020 RIKEN Center for Biosystems Dynamics Research (BDR)
 
 
-# Softwares
+# Softwares / Packages
 
 - [BioImageDbs (Bioconductor Experiment Package)](https://bioconductor.org/packages/release/data/experiment/html/BioImageDbs.html)
 
 - [CRAN/GoogleImage2Array](https://cran.r-project.org/web/packages/GoogleImage2Array/index.html)
 
+- [CRAN/seasonalityPlot](https://cran.r-project.org/web/packages/seasonalityPlot/index.html)
 
 # Publications/Patents
 See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAAJ) in detailed.
@@ -61,10 +63,13 @@ See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAA
 
 7. Norio Kobayashi, **Satoshi Kume**, *et al*: [RIKEN MetaDatabase: A Database Platform as a Microcosm of Linked Open Data Cloud for Life Sciences](https://www.igi-global.com/article/riken-metadatabase/193932), The International Journal on Semantic Web and Information Systems, 14(1) 140-164, 2018.
 
+8. 小口 綾貴子, 村川 泰裕, 柳田 素子, **久米 慧嗣**: [広域電子顕微鏡解析からみる腎病理の未来図 / Large-scale electron microscopy-driven next-generation renal pathology (Japanese)](https://www.kahyo.com/product/detail/JZ202104), 腎臓内科 = Nephrology 13(4), 502-509, 2021-04, 科学評論社
 
 # Presentations
 
 See [past presentations](https://kumes.github.io/skume-Biography/Presentations.html) in detailed.
+
+This list since 2021
 
 - Satoshi Kume: [Introduction to Bioimaging Analysis in R](https://github.com/kumeS/biocasia2021-workshop-ja-image), [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), 4th Nov 2021.
 
