@@ -8,13 +8,12 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Research interests
+# Research interest
 
-- Bioinformatics / informatics / AI / Deep learning
+- Bioinformatics / Computational science / Deep learning
 - R / Bioconductor
-- Medical science / healthcare
+- Medical science / life science
 - Comprehensive image analysis / Electron microscopy
--	Fusion research of life science with AI and computational science
 
 # Education
 
@@ -28,15 +27,14 @@ editor_options:
   - Course of Agriculture (Division of Molecular Life Science), Faculty of Animal Husbandry, Obihiro University of Agriculture and Veterinary Medicine, Japan.
 
 # Work history
-
-- Apr 2020 - present : Osaka Electro-Communication University (OECU)
+- Dec 2021 - present : illumina Japan
+- Apr 2020 - Nov 2021 : Osaka Electro-Communication University (OECU)
 - Jan 2016 - Jun 2021 : Kokorotics Inc.
 - Apr 2013 - Mar 2020 : RIKEN
   - 2013-2018 RIKEN Center for Life Science Technologies (CLST)
   - 2014-2020 RIKEN-JEOL Collaboration Center
   - 2016-2020 RIKEN Compass to Healthy Life Research Complex Program (RCH)
   - 2019-2020 RIKEN Center for Biosystems Dynamics Research (BDR)
-
 
 # Softwares / Packages
 
@@ -46,7 +44,8 @@ editor_options:
 
 - [CRAN/seasonalityPlot](https://cran.r-project.org/web/packages/seasonalityPlot/index.html)
 
-# Publications/Patents
+# Publications
+
 See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAAJ) in detailed.
 
 1. **Satoshi Kume**, Issues for Practical Use of Root Nodule Bacteria in Japan. Proceedings of the Seventh National and First International Scientific Convention, Palawan, Philippines, 2007.
@@ -57,20 +56,30 @@ See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAA
 
 4. **Satoshi Kume**, *et al*: [Potential biomarkers of fatigue identified by plasma metabolome analysis in rats](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120106), PloS One 10(3):e0120106, 2015.
 
-5.	**Kume, S.**, Masuya, H., Kataoka, Y., Kobayashi, N., [Development of an Ontology for an Integrated Image Analysis Platform to enable Global Sharing of Microscopy Imaging Data](http://ceur-ws.org/Vol-1690/paper93.pdf). Proceedings of the 15th International Semantic Web Conference, P23, 2016.
+5.	**Kume, S.**, *et al*: [Development of an Ontology for an Integrated Image Analysis Platform to enable Global Sharing of Microscopy Imaging Data](http://ceur-ws.org/Vol-1690/paper93.pdf). Proceedings of the 15th International Semantic Web Conference, P23, 2016.
 
 6. **Satoshi Kume**, *et al*: [Music Improves Subjective Feelings Leading to Cardiac Autonomic Nervous Modulation: A Pilot Study](https://www.frontiersin.org/articles/10.3389/fnins.2017.00108/full), Frontiers in Neuroscience. 11:108, 2017.
 
-7. Yoshiaki Teraoka, **Satoshi Kume**, *et al*: [Comprehensive Evaluation of the Binding of Lipocalin-Type Prostaglandin D Synthase to Poorly Water-Soluble Drugs](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00590), Molecular Pharmaceutics, 14 (10): 3558–3567, 2017.
+7. Yoshiaki Teraoka<sup>✝</sup>, **Satoshi Kume**<sup>✝</sup>, *et al*: [Comprehensive Evaluation of the Binding of Lipocalin-Type Prostaglandin D Synthase to Poorly Water-Soluble Drugs](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00590), Molecular Pharmaceutics, 14 (10): 3558–3567, 2017. (<sup>✝</sup>: equal contribution)
 
-8. **Satoshi Kume**, *et al*: [Development of Semantic Web-Based Imaging Database for Biological Morphome](https://link.springer.com/chapter/10.1007/978-3-319-70682-5_19). *In: Wang Z., Turhan AY., Wang K., Zhang X. (eds)* Semantic Technology. JIST 2017. Lecture Notes in Computer Science, vol 10675. Springer, Cham, 2017.
+8. **Satoshi Kume**<sup>✝✝</sup>, *et al*: [Development of Semantic Web-Based Imaging Database for Biological Morphome](https://link.springer.com/chapter/10.1007/978-3-319-70682-5_19). *In: Wang Z., Turhan AY., Wang K., Zhang X. (eds)* Semantic Technology. JIST 2017. Lecture Notes in Computer Science, vol 10675. Springer, Cham, 2017. (<sup>✝✝</sup>: corresponding author)
 
 9. Norio Kobayashi, **Satoshi Kume**, *et al*: [RIKEN MetaDatabase: A Database Platform as a Microcosm of Linked Open Data Cloud for Life Sciences](https://www.igi-global.com/article/riken-metadatabase/193932), The International Journal on Semantic Web and Information Systems, 14(1) 140-164, 2018.
 
-10. **久米 慧嗣**, 村川 泰裕: [SEMによる切片の広域撮像技術と生体組織の網羅的形態解析への展望 / Large-Area Imaging Technology of Tissue Sections Using SEM and Prospects for Comprehensive Morphological Analysis of Biological Tissues](https://www.jstage.jst.go.jp/article/kenbikyo/55/1/55_13/_article/-char/ja/), 顕微鏡/55 巻 (2020) 1 号/書誌 特集：「切片SEM 法」の基礎と生物学・医学生物学研究への応用.
+10. Yurie Hara, **Satoshi Kume**, *et al*: [Changes in TCA cycle and TCA cycle-related metabolites in plasma upon citric acid administration in rats](https://www.cell.com/heliyon/fulltext/S2405-8440(21)02604-9), Heliyon 7 (12), E08501, 2021.
 
-11. 小口 綾貴子, 村川 泰裕, 柳田 素子, **久米 慧嗣**: [広域電子顕微鏡解析からみる腎病理の未来図 / Large-scale electron microscopy-driven next-generation renal pathology (Japanese)](https://www.kahyo.com/product/detail/JZ202104), 腎臓内科 = Nephrology 13(4), 502-509, 2021-04, 科学評論社.
+11. Raku Son, Kenji Yamazawa, Akiko Oguchi, Mitsuo Suga, Masaru Tamura, Yasuhiro Murakawa, **Satoshi Kume**<sup>✝✝</sup>: Morphomics via Next-generation Electron Microscopy, [arXiv:2111.14373](https://arxiv.org/abs/2111.14373), 2021. (<sup>✝✝</sup>: corresponding author)
 
+
+## Japanese Article
+
+1. **久米慧嗣**, 田村勝, 小林紀郎, 村川泰裕:  [電子線・X線イメージング技術が織りなす画像ビッグデータ時代の病理学](https://www.bunkodo.co.jp/magazine/7PVMTAPO5H.html), 病理と臨床「特集 病理形態学の新技術」37 (7), 617-623.
+
+2. **久米 慧嗣**, 村川 泰裕: [SEMによる切片の広域撮像技術と生体組織の網羅的形態解析への展望 / Large-Area Imaging Technology of Tissue Sections Using SEM and Prospects for Comprehensive Morphological Analysis of Biological Tissues](https://www.jstage.jst.go.jp/article/kenbikyo/55/1/55_13/_article/-char/ja/), 顕微鏡/55 巻 (2020) 1 号/書誌 特集：「切片SEM 法」の基礎と生物学・医学生物学研究への応用.
+
+3. 小口 綾貴子, 村川 泰裕, 柳田 素子, **久米 慧嗣**: [広域電子顕微鏡解析からみる腎病理の未来図 / Large-scale electron microscopy-driven next-generation renal pathology (Japanese)](https://www.kahyo.com/product/detail/JZ202104), 腎臓内科 = Nephrology 13(4), 502-509, 2021-04, 科学評論社.
+
+4. **久米慧嗣**, 古崎晃司: 材料知識探索のためのオントロジー(第3章 材料設計の知識探索 第6節), データ駆動型材料開発 ～オントロジーとマイニング、計測と実験装置の自動制御～, Nov 2021
 
 # Presentations
 
@@ -78,8 +87,30 @@ See [past presentations](https://kumes.github.io/skume-Biography/Presentations.h
 
 This list since 2021
 
-- Satoshi Kume: [Introduction to Bioimaging Analysis in R](https://github.com/kumeS/biocasia2021-workshop-ja-image), [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), 4th Nov 2021.
+1. Satoshi Kume: [Introduction to Bioimaging Analysis in R](https://github.com/kumeS/biocasia2021-workshop-ja-image), [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), 4th Nov 2021.
 
+# Committee activity
+
+- **Organizer**, [BioPackathon](https://biopackathon.connpass.com/) (2020 - present)
+- **Expert investigator**, National Institute of Science and Technology Policy of Japan (2019 - present)
+- **Organizing Committee Member**, [BioC Asia 2021](https://biocasia2021.bioconductor.org/) (2021)
+- BioC Asia 2021 Organizing **Committee Member** (2021)
+- **Program Committee Member**, 16th Annual Meeting of the Fatigue Society of Japan (2019 - 2020)
+-	**Ethics Committee Member (Life Science)**, Kokorotics Research Ethics Committee (2017 - 2020)
+- **Member (Data Science)**, Insurance Innovation Creation Research Group (2018 - 2020)
+- **Member (Life Science)**, the Evaluation Committee for the Database Services of RIKEN Information Technology Center (2016)
+
+# Scientific community
+
+- **Regular member**, The Japanese Society of Microscopy / 日本顕微鏡学会 正会員 (2016-2021)
+- **Regular member**, The Japanese Society for Artificial Intelligence /  日本人工知能学会 正会員 (2019-2021)
+
+# Honors
+
+- The 8th RIKEN Research Incentive Award (23th Mar 2017, RIKEN)
+- The 2nd RIKEN Industry Partnerships Incentive Award (23th Mar 2017, RIKEN)
+- RIKEN CLST Research Incentive Award 2016 (4th Apr 2017, RIKEN CLST)
+- JASSP Short-term Student Exchange Promotion Program (Outbound) Scholarship  (Oct 2006, JASSP)
 
 # Teaching Experience
 
@@ -89,51 +120,29 @@ This list since 2021
 
 - **Teaching assistant**, Department of Life and Environmental Sciences, Osaka Prefecture University, Sakai, Osaka, Japan. (Jul 2011 - Mar 2013)
 
-# Committee activity
-
-- **Organizer**, BioPackathon (2020 - present)
-- **Organizing Committee Member**, [BioC Asia 2021](https://biocasia2021.bioconductor.org/) (2021)
-- **Expert investigator**, National Institute of Science and Technology Policy of Japan (2019 - present)
-- BiocAsia2021 Organizing **Committee Member** (2021)
-- **Program Committee Member**, 16th Annual Meeting of the Fatigue Society of Japan (2019 - 2020)
--	**Ethics Committee Member (Life Science)**, Kokorotics Research Ethics Committee (2017 - 2020)
-- **Member (Data Science)**, Insurance Innovation Creation Research Group (2018 - 2020)
-- **Member (Life Science)**, the Evaluation Committee for the Database Services of RIKEN Information Technology Center (2016)
-
-# Scientific community
-
-- **Regular member**, The Japanese Society of Microscopy / 日本顕微鏡学会 正会員
-- **Regular member**, The Japanese Society for Artificial Intelligence /  日本人工知能学会 正会員
-
-# Honors
-
-- The 8th RIKEN Research Incentive Award (23th Mar 2017, RIKEN)
-- The 2nd RIKEN Industry Partnerships Incentive Award (23th Mar 2017, RIKEN)
-- RIKEN CLST Research Incentive Award 2016 (4th Apr 2017, RIKEN CLST)
-- JASSP Short-term Student Exchange Promotion Program (Outbound) Scholarship  (Oct 2006, JASSP)
 
 # Research funding
 
-1.	Prof. Osafune memorial scholarship by the Japanese Society of Microscopy (Principal investigator): Comprehensive Morphological Analysis of Three-Dimensional Cell Images Using Sequential Semantic Segmentation Method of Deep Learning, 2020.
+1. Prof. Osafune memorial scholarship by the Japanese Society of Microscopy (Principal investigator): Comprehensive Morphological Analysis of Three-Dimensional Cell Images Using Sequential Semantic Segmentation Method of Deep Learning, 2020.
 
-2.	JSPS KAKENHI Challenging Research (Exploratory) (Principal investigator): Construction of next-generation health diagnosis by the health informatics of bioimage information, 2018–2021.
+2. JSPS KAKENHI Challenging Research (Exploratory) (Principal investigator): Construction of next-generation health diagnosis by the health informatics of bioimage information, 2018–2021.
 
-3.	JSPS KAKENHI Grant-in-Aid for Young Scientists (B) (Principal investigator): The Clarification of Molecular Mechanisms of Fatigue Underlying Fatigue Regulation Factors Using Adeno-associated Virus, 2015–2017.
+3. JSPS KAKENHI Grant-in-Aid for Young Scientists (B) (Principal investigator): The Clarification of Molecular Mechanisms of Fatigue Underlying Fatigue Regulation Factors Using Adeno-associated Virus, 2015–2017.
 
-4.	JSPS KAKENHI Grant-in-Aid for Research Activity Start-up (Principal investigator): Metabolic alterations of urea cycle and anti-fatigue effect of ornithine administration in fatigued animals, 2013–2015.
+4. JSPS KAKENHI Grant-in-Aid for Research Activity Start-up (Principal investigator): Metabolic alterations of urea cycle and anti-fatigue effect of ornithine administration in fatigued animals, 2013–2015.
 
 
 # Press release / Media
 
-1.	[”Research x Something”, GENSYU, RIKEN News, November 2019. (Japanese)](https://www.riken.jp/medialibrary/riken/pr/publications/news/2019/rn201911.pdf)
+1. [”Research x Something”, GENSYU, RIKEN News, November 2019. (Japanese)](https://www.riken.jp/medialibrary/riken/pr/publications/news/2019/rn201911.pdf)
 
-2.	[BDR Times | Ikimono Times, BDR Research: Nehori Hahori, “Connecting Micro and Macro for a New Biology (Japanese)](https://bdrtimes.riken.jp/2019/06/30/questionnaire/)
+2. [BDR Times | Ikimono Times, BDR Research: Nehori Hahori, “Connecting Micro and Macro for a New Biology (Japanese)](https://bdrtimes.riken.jp/2019/06/30/questionnaire/)
 
-3.	[Prediction of Autonomic Nervous System Function from Mood Change during Listening to Environmental Music - Expectations for Improvement of Autonomic Nervous System Balance by Music (Japanese)](https://www.riken.jp/press/2017/20170427_1/)
+3. [Prediction of Autonomic Nervous System Function from Mood Change during Listening to Environmental Music - Expectations for Improvement of Autonomic Nervous System Balance by Music (Japanese)](https://www.riken.jp/press/2017/20170427_1/)
 
 # Misc
 
-- [Blog](https://skume.net/)
+- [Personal Blog (Japanese)](https://skume.net/)
 - [slideshare.net](https://www.slideshare.net/BiophysicsOsaka)
 - [Speaker Deck](https://speakerdeck.com/kumes)
 
@@ -143,6 +152,4 @@ This list since 2021
 - [Loop Frontiers](https://loop.frontiersin.org/people/368373/overview)
 - [Linkedin](https://www.linkedin.com/in/satoshi-kume-25175b129/?locale=en_US)
 - [Google scholar](https://scholar.google.com/citations?user=pV7OzeAAAAAJ&hl=en)
-
-
 

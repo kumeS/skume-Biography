@@ -18,8 +18,11 @@ editor_options:
 
 4. Satoshi Kume: The 51st Annual Meeting of the Japanese Society for Clinical Molecular Morphology (Kurume, Sep 2019)
 
-5. Satoshi Kume: Introduction to Bioimaging Analysis in R, [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), 4th Nov 2021.
+5.	Satoshi Kume: RIKEN-CAS Young Researcher Exchange Meeting (Chinese Academy of Science, Shenzhen, China), Nov 2019.
 
+6.	Satoshi Kume: A3 Foresight Program Meeting 2019 (Seoul National University Hospital, Seoul, Korea), Oct  2019.
+
+7. Satoshi Kume: Introduction to Bioimaging Analysis in R, [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), Online Nov 2021.
 
 # Presentations 
 
