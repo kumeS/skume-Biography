@@ -36,7 +36,7 @@ editor_options:
   - 2016-2020 RIKEN Compass to Healthy Life Research Complex Program (RCH)
   - 2019-2020 RIKEN Center for Biosystems Dynamics Research (BDR)
 
-# Softwares / Packages
+# Softwares
 
 - [BioImageDbs (Bioconductor Experiment Package)](https://bioconductor.org/packages/release/data/experiment/html/BioImageDbs.html)
 
@@ -56,7 +56,7 @@ See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAA
 
 4. **Satoshi Kume**, *et al*: [Potential biomarkers of fatigue identified by plasma metabolome analysis in rats](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120106), PloS One 10(3):e0120106, 2015.
 
-5.	**Kume, S.**, *et al*: [Development of an Ontology for an Integrated Image Analysis Platform to enable Global Sharing of Microscopy Imaging Data](http://ceur-ws.org/Vol-1690/paper93.pdf). Proceedings of the 15th International Semantic Web Conference, P23, 2016.
+5.	**Satoshi Kume**, *et al*: [Development of an Ontology for an Integrated Image Analysis Platform to enable Global Sharing of Microscopy Imaging Data](http://ceur-ws.org/Vol-1690/paper93.pdf). Proceedings of the 15th International Semantic Web Conference, P23, 2016.
 
 6. **Satoshi Kume**, *et al*: [Music Improves Subjective Feelings Leading to Cardiac Autonomic Nervous Modulation: A Pilot Study](https://www.frontiersin.org/articles/10.3389/fnins.2017.00108/full), Frontiers in Neuroscience. 11:108, 2017.
 
@@ -68,7 +68,9 @@ See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAA
 
 10. Yurie Hara, **Satoshi Kume**, *et al*: [Changes in TCA cycle and TCA cycle-related metabolites in plasma upon citric acid administration in rats](https://www.cell.com/heliyon/fulltext/S2405-8440(21)02604-9), Heliyon 7 (12), E08501, 2021.
 
-11. Raku Son, Kenji Yamazawa, Akiko Oguchi, Mitsuo Suga, Masaru Tamura, Yasuhiro Murakawa, **Satoshi Kume**<sup>✝✝</sup>: Morphomics via Next-generation Electron Microscopy, [arXiv:2111.14373](https://arxiv.org/abs/2111.14373), 2021. (<sup>✝✝</sup>: corresponding author)
+11. **Satoshi Kume**<sup>✝✝</sup>, Kouji Kozaki<sup>✝✝</sup>: Extracting Domain-specific Concepts from Large-scale Linked Open Data, [arXiv:2112.03102](https://arxiv.org/abs/2112.03102) (<sup>✝✝</sup>: corresponding author)
+
+12. Raku Son, Kenji Yamazawa, Akiko Oguchi, Mitsuo Suga, Masaru Tamura, Yasuhiro Murakawa, **Satoshi Kume**<sup>✝✝</sup>: Morphomics via Next-generation Electron Microscopy, [arXiv:2111.14373](https://arxiv.org/abs/2111.14373), 2021. (<sup>✝✝</sup>: corresponding author)
 
 
 ## Japanese Article
