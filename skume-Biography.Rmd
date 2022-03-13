@@ -68,7 +68,7 @@ See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAA
 
 10. Yurie Hara, **Satoshi Kume**, *et al*: [Changes in TCA cycle and TCA cycle-related metabolites in plasma upon citric acid administration in rats](https://www.cell.com/heliyon/fulltext/S2405-8440(21)02604-9), Heliyon 7 (12), E08501, 2021.
 
-11. **Satoshi Kume**<sup>✝✝</sup>, Kouji Kozaki<sup>✝✝</sup>: Extracting Domain-specific Concepts from Large-scale Linked Open Data, [arXiv:2112.03102](https://arxiv.org/abs/2112.03102) (<sup>✝✝</sup>: corresponding author)
+11. **Satoshi Kume**<sup>✝✝</sup>, Kouji Kozaki<sup>✝✝</sup>: [Extracting Domain-specific Concepts from Large-scale Linked Open Data](https://doi.org/10.1145/3502223.3502227), IJCKG'21: The 10th International Joint Conference on Knowledge GraphsDecember 2021 Pages 28–37, doi: [https://doi.org/10.1145/3502223.3502227](https://doi.org/10.1145/3502223.3502227) (<sup>✝✝</sup>: corresponding author)
 
 12. Raku Son, Kenji Yamazawa, Akiko Oguchi, Mitsuo Suga, Masaru Tamura, Yasuhiro Murakawa, **Satoshi Kume**<sup>✝✝</sup>: Morphomics via Next-generation Electron Microscopy, [arXiv:2111.14373](https://arxiv.org/abs/2111.14373), 2021. (<sup>✝✝</sup>: corresponding author)
 
