@@ -24,6 +24,9 @@ editor_options:
 
 7. Satoshi Kume: Introduction to Bioimaging Analysis in R, [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), Online Nov 2021.
 
+8. 久米　慧嗣: ソフトウェア開発 × LLM (Software development x LLM), IIBMP2023 (生命科学におけるLLM応用事例の探求), Sep 2023.
+
+
 # Presentations 
 
 1. 久米 慧嗣, 古崎 晃司: [高分子材料オントロジーの構築に向けたWikidataからのドメイン概念抽出](https://www.jstage.jst.go.jp/article/jsaisigtwo/2020/SWO-052/2020_03/_article/-char/ja/), 人工知能学会第二種研究会資料, 2020 巻 SWO-052 号 p. 03. (2020年11月)

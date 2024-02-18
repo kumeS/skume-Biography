@@ -8,8 +8,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Research interest
+# Research interest / Develop interest
 
+- LLM / Image generation
 - Bioinformatics / Computational science / Deep learning
 - R / Bioconductor
 - Medical science / life science
@@ -70,7 +71,7 @@ See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAA
 
 11. **Satoshi Kume**<sup>✝✝</sup>, Kouji Kozaki<sup>✝✝</sup>: [Extracting Domain-specific Concepts from Large-scale Linked Open Data](https://doi.org/10.1145/3502223.3502227), IJCKG'21: The 10th International Joint Conference on Knowledge GraphsDecember 2021 Pages 28–37, doi: [https://doi.org/10.1145/3502223.3502227](https://doi.org/10.1145/3502223.3502227) (<sup>✝✝</sup>: corresponding author)
 
-12. Raku Son, Kenji Yamazawa, Akiko Oguchi, Mitsuo Suga, Masaru Tamura, Yasuhiro Murakawa, **Satoshi Kume**<sup>✝✝</sup>: Morphomics via Next-generation Electron Microscopy, [arXiv:2111.14373](https://arxiv.org/abs/2111.14373), 2021. (<sup>✝✝</sup>: corresponding author)
+12. Raku Son, Kenji Yamazawa, Akiko Oguchi, Mitsuo Suga, Masaru Tamura, Yasuhiro Murakawa, **Satoshi Kume**<sup>✝✝</sup>: [Morphomics via Next-generation Electron Microscopy](https://doi.org/10.1093/jmcb/mjad081), Journal of Molecular Cell Biology, mjad081, Published: 26 December 2023 (<sup>✝✝</sup>: corresponding author)
 
 
 ## Japanese Article
@@ -94,7 +95,7 @@ This list since 2021
 # Committee activity
 
 - **Organizer**, [BioPackathon](https://biopackathon.connpass.com/) (2020 - present)
-- **Expert investigator**, National Institute of Science and Technology Policy of Japan (2019 - present)
+- **Expert investigator**, National Institute of Science and Technology Policy of Japan (2019 - 2021)
 - **Organizing Committee Member**, [BioC Asia 2021](https://biocasia2021.bioconductor.org/) (2021)
 - BioC Asia 2021 Organizing **Committee Member** (2021)
 - **Program Committee Member**, 16th Annual Meeting of the Fatigue Society of Japan (2019 - 2020)
