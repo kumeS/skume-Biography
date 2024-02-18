@@ -45,6 +45,10 @@ editor_options:
 
 - [CRAN/seasonalityPlot](https://cran.r-project.org/web/packages/seasonalityPlot/index.html)
 
+- [CRAN/chatAI4R](https://cran.r-project.org/web/packages/chatAI4R/index.html)
+
+- [CRAN/deepRstudio](https://cran.r-project.org/web/packages/deepRstudio/index.html)
+
 # Publications
 
 See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAAJ) in detailed.
