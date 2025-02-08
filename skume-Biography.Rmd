@@ -11,8 +11,9 @@ editor_options:
 # Research interest / Develop interest
 
 - LLM / Image generation
-- Bioinformatics / Computational science / Deep learning
 - R / Bioconductor
+- Comprehensive image analysis / Bioinformatics 
+- Computational science / Deep learning
 - Medical science / life science
 - Comprehensive image analysis / Electron microscopy
 
@@ -28,10 +29,10 @@ editor_options:
   - Course of Agriculture (Division of Molecular Life Science), Faculty of Animal Husbandry, Obihiro University of Agriculture and Veterinary Medicine, Japan.
 
 # Work history
-- Dec 2021 - present : illumina Japan
-- Apr 2020 - Nov 2021 : Osaka Electro-Communication University (OECU)
-- Jan 2016 - Jun 2021 : Kokorotics Inc.
-- Apr 2013 - Mar 2020 : RIKEN
+- Dec 2021 - present : Application Scientist, Illumina Japan
+- Apr 2020 - Nov 2021 : Researcher, Osaka Electro-Communication University (OECU)
+- Jan 2016 - Jun 2021 : Director, Kokorotics Inc.
+- Apr 2013 - Mar 2020 : Researcher, RIKEN
   - 2013-2018 RIKEN Center for Life Science Technologies (CLST)
   - 2014-2020 RIKEN-JEOL Collaboration Center
   - 2016-2020 RIKEN Compass to Healthy Life Research Complex Program (RCH)
@@ -77,6 +78,8 @@ See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAA
 
 12. Raku Son, Kenji Yamazawa, Akiko Oguchi, Mitsuo Suga, Masaru Tamura, Yasuhiro Murakawa, **Satoshi Kume**<sup>✝✝</sup>: [Morphomics via Next-generation Electron Microscopy](https://doi.org/10.1093/jmcb/mjad081), Journal of Molecular Cell Biology, mjad081, Published: 26 December 2023 (<sup>✝✝</sup>: corresponding author)
 
+13. Akihiro Harada et al.: [Dynamic movement of the Golgi unit and its glycosylation enzyme zones](https://www.nature.com/articles/s41467-024-48901-1), Nature Communications volume 15, Article number: 4514 (2024) 
+
 
 ## Japanese Article
 
@@ -95,6 +98,8 @@ See [past presentations](https://kumes.github.io/skume-Biography/Presentations.h
 This list since 2021
 
 1. Satoshi Kume: [Introduction to Bioimaging Analysis in R](https://github.com/kumeS/biocasia2021-workshop-ja-image), [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), 4th Nov 2021.
+
+2. 久米　慧嗣: ソフトウェア開発 × LLM (Software development x LLM), IIBMP2023 (生命科学におけるLLM応用事例の探求), Sep 2023.
 
 # Committee activity
 

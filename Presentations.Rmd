@@ -24,8 +24,6 @@ editor_options:
 
 7. Satoshi Kume: Introduction to Bioimaging Analysis in R, [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), Online Nov 2021.
 
-8. 久米　慧嗣: ソフトウェア開発 × LLM (Software development x LLM), IIBMP2023 (生命科学におけるLLM応用事例の探求), Sep 2023.
-
 
 # Presentations 
 
