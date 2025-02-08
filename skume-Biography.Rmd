@@ -156,7 +156,7 @@ This list since 2021
 
 - [Personal Blog (Japanese)](https://skume.net/)
 - [slideshare.net](https://www.slideshare.net/BiophysicsOsaka)
-- [Speaker Deck](https://speakerdeck.com/kumes)
+- [Speaker Deck](https://speakerdeck.com/skume)
 
 - [Kakenhi / 科研費情報](https://nrid.nii.ac.jp/ja/nrid/1000030708441/)
 - [Researchmap / リサーチマップ](https://researchmap.jp/skume/)
