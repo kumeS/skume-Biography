@@ -24,6 +24,8 @@ editor_options:
 
 7. Satoshi Kume: Introduction to Bioimaging Analysis in R, [Bioc Asia 2021 workshop](https://biocasia2021.bioconductor.org/workshops/), Online Nov 2021.
 
+8. Satoshi Kume: [ソフトウェア開発 × LLM](https://speakerdeck.com/skume/sohutoueakai-fa-x-llm-rpatukezikai-fa-woti-cai-ni), Informatics in Biology, Medicine and Pharmacology 2023 (Kashiwa, chiba), Sep 2023.
+
 
 # Presentations 
 
