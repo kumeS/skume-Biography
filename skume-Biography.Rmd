@@ -8,6 +8,11 @@ editor_options:
   chunk_output_type: console
 ---
 
+# Personal
+
+- Satoshi Kume / 久米慧嗣
+- Born in Tokushima / 徳島生まれ
+
 # Research interest / Develop interest
 
 - AI / LLM / Generative AI / Image generation
@@ -26,6 +31,17 @@ editor_options:
   - 2014-2020 RIKEN-JEOL Collaboration Center
   - 2016-2020 RIKEN Compass to Healthy Life Research Complex Program (RCH)
   - 2019-2020 RIKEN Center for Biosystems Dynamics Research (BDR)
+
+# 経歴 (日本語版)
+- Dec 2021 - present : イルミナ株式会社 フィールドアプリケーション
+- Apr 2020 - Nov 2021 : 大阪電気通信大学 学術研究員 (経産省NEDOプロジェクト)
+  - NEDOプロジェクト: [超先端材料超高速開発基盤技術プロジェクト・材料データ構造化AIツールの開発](https://www.nedo.go.jp/activities/ZZJP_100119.html)
+- Jan 2016 - Jun 2021 : Kokorotics株式会社 取締役
+- Apr 2013 - Mar 2020 : 理化学研究所　研究員
+  - 2013-2018 理研ライフサイエンス技術基盤研究センター (CLST)
+  - 2014-2020 理研-JEOL連携センター
+  - 2016-2020 理研健康 “生き活き” 羅針盤リサーチコンプレックス (RCH)
+  - 2019-2020 理研 生命機能科学研究センター (BDR)
 
 # Education
 
