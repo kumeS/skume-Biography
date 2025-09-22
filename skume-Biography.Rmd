@@ -111,6 +111,8 @@ See [past presentations](https://kumes.github.io/skume-Biography/Presentations.h
 
 3. 久米　慧嗣: AI/LLMでパッケージを開発する (パッケージング技術の基礎2), Bio"Pack"athon 2024 #9 Osaka Workshop, Sep 2024.
 
+4. Satoshi Kume: The Latest Trends in Generative AI and an Exploration of Its Applications in Biology (生成AIの最新動向とバイオ分野への応用を探る 〜 バイオデータ解析 x 生成AI 〜), S2: The New Frontier of Plant Biotechnology Unlocked by Artificial Intelligence, The 42nd Annual Meeting of the Japanese Society for Plant Biotechnology (Kobe, Hyogo), Sep 2025.
+
 # Committee activity
 
 - **Organizer**, [Bio"Pack"athon 2024 #9 Osaka Workshop & Hackathon](https://biopackathon.connpass.com/event/320804/) (Sep 2024)

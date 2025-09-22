@@ -26,6 +26,8 @@ editor_options:
 
 8. Satoshi Kume: [ソフトウェア開発 × LLM](https://speakerdeck.com/skume/sohutoueakai-fa-x-llm-rpatukezikai-fa-woti-cai-ni), Informatics in Biology, Medicine and Pharmacology 2023 (Kashiwa, chiba), Sep 2023.
 
+9. Satoshi Kume: The Latest Trends in Generative AI and an Exploration of Its Applications in Biology (生成AIの最新動向とバイオ分野への応用を探る 〜 バイオデータ解析 x 生成AI 〜), S2: The New Frontier of Plant Biotechnology Unlocked by Artificial Intelligence, The 42nd Annual Meeting of the Japanese Society for Plant Biotechnology (Kobe, Hyogo), Sep 2025.
+
 
 # Presentations 
 
