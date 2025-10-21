@@ -15,7 +15,7 @@ editor_options:
 
 # Research interest / Develop interest
 
-- AI / LLM / Generative AI / Image generation
+- AI / LLM / Generative AI / Image 2 image (i2i) / Image generation
 - R / CRAN / Bioconductor / Package development
 - Bioinformatics / Computational science / Deep learning
 - Biochemistry / Medical science / Life science
@@ -44,7 +44,7 @@ editor_options:
   - 2019-2020 理研 生命機能科学研究センター (BDR)
 
 # Education
-
+- Undergraduate Students in Informatics, Open University of Japan (2025 - present) 
 - PhD in Applied Life Science, Osaka Prefecture University (2013) 
   - Division of Biological Information Science, Department of Applied Life Sciences, Osaka Prefecture University, Japan.
 
@@ -130,6 +130,10 @@ See [past presentations](https://kumes.github.io/skume-Biography/Presentations.h
 4. Satoshi Kume: The Latest Trends in Generative AI and an Exploration of Its Applications in Biology (生成AIの最新動向とバイオ分野への応用を探る 〜 バイオデータ解析 x 生成AI 〜), S2: The New Frontier of Plant Biotechnology Unlocked by Artificial Intelligence, The 42nd Annual Meeting of the Japanese Society for Plant Biotechnology (Kobe, Hyogo), Sep 2025.
 
 # Committee activity
+
+- **Organizer**, [Osaka AI Hackathon](https://osaka-ai-hackathon.connpass.com/)
+
+- **Organizer**, [Web3 Hackathon 2025, QUINTBRIDGE, Kyobashi, Osaka](https://datascience-mokumoku-kyobashi.connpass.com/event/362207/)
 
 - **Organizer**, [Bio"Pack"athon 2024 #9 Osaka Workshop & Hackathon](https://biopackathon.connpass.com/event/320804/) (Sep 2024)
 - **Organizer**, [BioPackathon](https://biopackathon.connpass.com/) (2020 - present)
