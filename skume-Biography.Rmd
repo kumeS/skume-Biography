@@ -10,8 +10,9 @@ editor_options:
 
 # Personal
 
-- Satoshi Kume / 久米慧嗣
+- Satoshi Kume / 久米 慧嗣
 - Born in Tokushima / 徳島生まれ
+- Living in Kyobashi, Osaka
 
 # Research interest / Develop interest
 
@@ -20,6 +21,7 @@ editor_options:
 - Bioinformatics / Computational science / Deep learning
 - Biochemistry / Medical science / Life science
 - Microscopy / Electron microscopy / Comprehensive image analysis
+- [Nurumayu project](https://github.com/kumeS/nurumayudatalab)
 
 # Work history
 - Dec 2021 - present : Application Scientist, Illumina Japan
@@ -106,6 +108,7 @@ See [Google scholar](https://scholar.google.com/citations?hl=en&user=pV7OzeAAAAA
 
 14. Akihiro Harada et al.: [Dynamic movement of the Golgi unit and its glycosylation enzyme zones](https://www.nature.com/articles/s41467-024-48901-1), Nature Communications volume 15, Article number: 4514 (2024) 
 
+15. Kume, S., (2026). [chatAI4R: Interactive Artificial Intelligence toolkit for Data Science in R](https://joss.theoj.org/papers/10.21105/joss.09283). Journal of Open Source Software, 11(119), 9283, https://doi.org/10.21105/joss.09283
 
 ## Japanese Article
 
@@ -148,7 +151,7 @@ See [past presentations](https://kumes.github.io/skume-Biography/Presentations.h
 # Scientific community
 
 - **Regular member**, The Japanese Society of Microscopy / 日本顕微鏡学会 正会員 (2016-2021)
-- **Regular member**, The Japanese Society for Artificial Intelligence /  日本人工知能学会 正会員 (2019-2021)
+- **Regular member**, The Japanese Society for Artificial Intelligence /  日本人工知能学会 会員 (2019-2021, 2026)
 
 # Honors
 
